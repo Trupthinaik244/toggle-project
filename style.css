@@ -1,0 +1,24 @@
+/* Default Light Theme */
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+  transition: 0.3s;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+/* Dark Theme Class */
+.dark-mode {
+  background-color: #222;
+  color: white;
+}
